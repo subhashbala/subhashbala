@@ -9,7 +9,7 @@ Welcome to my personal GitHub page! I am a junior at the University of Wisconsin
 
 ### I am currently learning...
 I am committed to being a lifelong learner - constant change in improvement in the technology is what makes this industry beautiful. I am currently learning on:
-- Web Development: designing scalable full-stack applications using 
+- Web Development: designing scalable full-stack applications
 - RAG: building retrieval-augmented generation pipeilnes that combine embeddings, vector search and LLMs
 - DevOps: containerization, deployment workflows, and improving developer experience using tools like Docker
 - Machine Learning: strengthening fundamentals in model behavior, evaluation, and applied ML concepts
