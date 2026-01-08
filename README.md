@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub page! I am a junior at the University of Wisconsin-Madison and passionate for all things tech and innovation. I have a strong background in Python and Java as well as experience with C, C++, Node, and a couple more programming languages. I am excited for any opportunities to contribute to any unique and exciting projects that can challenge my skills.
 
-# I am 
+### I am 
 
 <!--
 **subhashbala/subhashbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
