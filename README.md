@@ -19,6 +19,6 @@ Any projects that can expand and challenge my interests. Whether it's web develo
 
 ## 🤝🏽 How to reach me...
 You can reach me on any of these platforms, I am open to discuss, collaborate, or chat about anything!
-- Linkedin:
-- Email:
+- Linkedin: https://www.linkedin.com/in/subhashbala/
+- Email: balabommu@wisc.edu 
 - Portoflio: 
