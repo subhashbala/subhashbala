@@ -1,6 +1,6 @@
 # 👋 Hello, my name is Subhash Balabommu
 
-Welcome to my personal GitHub page! I am a junior at the University of Wisconsin-Madison and passionate for all things tech and innovation. I have a strong background in Python and Java as well as experience with C, C++, Node, and a couple more programming languages. I am excited for any opportunities to contribute to any unique and exciting projects that can challenge my skills.
+Welcome to my personal GitHub page! I am a junior at the University of Wisconsin-Madison passionate for all things tech and innovation. I have a strong background in Python and Java as well as experience with C, C++, Node, and a couple more programming languages. I am excited for any opportunities to contribute to any unique and exciting projects that can challenge my skills.
 
 ## 💭 I am interested in...
 - Artificial Intelligence: applying large language models to real-world problems
